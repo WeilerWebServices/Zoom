@@ -1,0 +1,32 @@
+{
+  "name": "@zoomus/zoombottemplates",
+  "version": "0.1.4",
+  "description": "templates for @zoomus/chatbot-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config  ./jest.config.js"
+  },
+  "keywords": [
+    "zoom",
+    "chatbot",
+    "templates"
+  ],
+  "author": "zoom",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/zoom/node.js-zoombottemplates#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoom/node.js-zoombottemplates.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zoom/node.js-zoombottemplates/issues"
+  },
+  "devDependencies": {
+    "babel-jest": "^25.1.0",
+    "babel-plugin-rewire": "^1.2.0",
+    "eslint": "^5.16.0",
+    "jest": "^25.1.0",
+    "rewire": "^4.0.1",
+    "supertest": "^4.0.2"
+  }
+}

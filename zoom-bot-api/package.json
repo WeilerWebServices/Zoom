@@ -1,0 +1,15 @@
+{
+  "name": "zoom-bot-api",
+  "version": "1.0.0",
+  "description": "Zoom BOT API Sample app",
+  "main": "sendBotMessage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Purnell",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "request": "^2.87.0"
+  }
+}
